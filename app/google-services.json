@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419497235892",
+    "project_id": "mycoffeeapp-21735",
+    "storage_bucket": "mycoffeeapp-21735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419497235892:android:868a2678ef0cfcf8cb4ee1",
+        "android_client_info": {
+          "package_name": "com.dinsalehy.androisapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-CZ4407-vyxNTKIBGNrtDU4gKYK0ZVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
